@@ -1,6 +1,6 @@
 body {
   background-image: url("../img/bgo-studio.jpg");
-  background-size: 100vw;
+  background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   color: white;
@@ -8,10 +8,6 @@ body {
 }
 
 .landing {
-  height: 100vh;
-  padding-top: 30vh;
+  height: 60vh;
+  padding-top: 20vh;
 }
-
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
